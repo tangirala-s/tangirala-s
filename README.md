@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tangirala-s
-- 👀 I’m interested in Data Analysis, Cloud, Automation and AI
-- 🌱 I’m currently learning Azure
+- 👀 I’m interested in Business Analytics, Data Analysis, Cloud Services, AI, Automation
+- 🌱 I’m currently learning Azure Cloud Devleopment
 - 💞️ I’m looking to collaborate on Data realted projects and cloud development projects
 
 <!---
